@@ -1,0 +1,247 @@
+---
+title: ""
+format:
+  html:
+    toc: false
+    smooth-scroll: true
+    css: styles.css
+page-layout: full
+---
+
+# {#top}
+
+::: {.topnav}
+[RS](#top){.logo} [Home](#top){.navlink} [About](#about){.navlink} [Education](#education){.navlink} [Experience](#experience){.navlink} [Skills](#skills){.navlink} [Projects](#projects){.navlink} [Objective](#objective){.navlink} [Contact](#contact){.navlink}
+:::
+
+::: {.hero}
+# Roshan Shifna Niyas
+
+::: {.roleline}
+MBA Candidate | Legal Professional | Business & Corporate Strategy Focused
+:::
+
+::: {.tagline}
+MBA candidate at University Canada West with a law background and experience across banking, accounting, and legal research. I combine structured business thinking with regulatory and financial awareness.
+:::
+
+[Contact Me](#contact){.btn} [Explore Experience](#experience){.btn .btn-ghost}
+
+::: {.grid-3}
+::: {.card .small}
+**Location**  
+Vancouver, British Columbia
+:::
+::: {.card .small}
+**Email**  
+roshanshifnaniyas3@gmail.com
+:::
+::: {.card .small}
+**LinkedIn**  
+www.linkedin.com/in/roshan-shifna
+:::
+:::
+:::
+
+---
+
+## About {#about}
+
+::: {.grid-2}
+::: {.card}
+### Professional Summary
+I am an MBA candidate at University Canada West with an LLB and experience in banking, accounting, and legal research. I am interested in corporate strategy, compliance, governance, and financial management roles.
+:::
+
+::: {.card}
+### Strengths
+- Analytical thinking and attention to detail  
+- Strong written communication  
+- Financial reporting discipline  
+- Legal research and regulatory awareness  
+:::
+:::
+
+---
+
+## Education {#education}
+
+::: {.stack}
+
+::: {.card}
+### Master of Business Administration (MBA)
+University Canada West (UCW), Vancouver, Canada  
+Expected Graduation: April 2026  
+
+**Focus Areas**
+::: {.chips}
+- Strategic Management
+- Financial Management
+- Business Analytics
+- Operations and Supply Chain
+- Leadership and Organizational Behavior
+:::
+:::
+
+::: {.card}
+### Bachelor of Laws (LLB)
+University of London, United Kingdom  
+Completed: 2022
+:::
+
+::: {.card}
+### Additional Academic Credentials
+- Certificate of Higher Education in Common Law (Mark of Credit), 2020  
+- Internship Experience – Commercial Law (Certificate of Completion), 2021  
+:::
+
+:::
+
+---
+
+## Experience {#experience}
+
+::: {.stack}
+
+::: {.card}
+### Accounts Assistant — Warna Caters Pvt Ltd
+January 2023 – June 2024  
+
+- Maintained financial records and prepared reports supporting daily accounting operations.  
+- Processed payments, monitored cash flow, and supported reconciliation activities.  
+- Assisted budgeting support and cost tracking to improve operational efficiency.  
+- Coordinated documentation to support compliance and transparency.  
+:::
+
+::: {.card}
+### Legal Intern — E-Law Solutions (Pvt) Ltd
+May 2023 – June 2023  
+
+- Conducted legal research in civil, corporate, and commercial law to support case preparation.  
+- Drafted legal summaries and research briefs supporting case strategy development.  
+- Reviewed contractual documentation and identified key legal considerations.  
+- Supported file organization and documentation for ongoing matters.  
+:::
+
+::: {.card}
+### Bank Teller — Sampath Bank PLC
+February 2018 – February 2019  
+
+- Delivered deposits, withdrawals, and bill payments with high accuracy.  
+- Identified customer needs and supported suitable product recommendations.  
+- Followed internal controls and compliance standards in a fast-paced environment.  
+- Maintained professionalism and efficiency in high-volume operations.  
+:::
+
+:::
+
+---
+
+## Skills {#skills}
+
+::: {.grid-2}
+
+::: {.card}
+### Business and Strategy
+::: {.chips}
+- Strategic Analysis (SWOT, PESTEL)
+- Operational Process Support
+- Structured Decision-Making
+- Governance Awareness
+:::
+:::
+
+::: {.card}
+### Finance
+::: {.chips}
+- Financial Reporting
+- Budget Support
+- Documentation and Reconciliation
+- Cash Flow Monitoring
+:::
+:::
+
+:::
+
+::: {.grid-2}
+
+::: {.card}
+### Legal
+::: {.chips}
+- Corporate and Commercial Law Research
+- Legal Research and Case Analysis
+- Contract Review Support
+- Regulatory Sensitivity
+:::
+:::
+
+::: {.card}
+### Professional Strengths
+::: {.chips}
+- Analytical Thinking
+- Attention to Detail
+- Written Communication
+- Team Collaboration
+- Independent Execution
+- Multilingual: English, Sinhalese, Hindi
+:::
+:::
+
+:::
+
+---
+
+## Projects {#projects}
+
+::: {.grid-2}
+
+::: {.card}
+### Strategic Management Case Analysis
+- Conducted industry and competitive analysis using strategic frameworks.  
+- Developed evidence-based strategic recommendations for growth and positioning.  
+:::
+
+::: {.card}
+### Financial Evaluation Project
+- Applied NPV and IRR methods to assess capital investment decisions.  
+- Presented structured financial analysis and risk assessments.  
+:::
+
+:::
+
+---
+
+## Career Objective {#objective}
+
+::: {.card}
+My long-term objective is to build a career that integrates business leadership with legal and regulatory expertise. I aim to contribute to corporate governance, compliance strategy, and structured decision-making within financial institutions, professional service firms, or corporate legal environments. Ultimately, I aspire to leadership roles that drive sustainable growth and organizational excellence.
+:::
+
+---
+
+## Contact {#contact}
+
+::: {.grid-2}
+
+::: {.card}
+### Contact Details
+**Email:** roshanshifnaniyas3@gmail.com  
+**Location:** Vancouver, British Columbia  
+**LinkedIn:** www.linkedin.com/in/roshan-shifna  
+
+[Send Email](mailto:roshanshifnaniyas3@gmail.com){.btn}
+:::
+
+::: {.card}
+### Quick Message Template
+**Subject:** Networking / Opportunity  
+
+Hi ___,  
+My name is Roshan Shifna Niyas. I’m an MBA candidate at UCW with an LLB and experience in banking and accounting. I’m interested in corporate strategy, compliance, and governance roles. Would you be open to a short conversation this week?
+:::
+
+:::
+
+::: {.footer}
+© 2026 Roshan Shifna Niyas
+:::
